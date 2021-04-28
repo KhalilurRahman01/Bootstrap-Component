@@ -1,0 +1,10 @@
+.box{
+	min-height: 100px;
+	background-color: teal;
+	font-size: 50px;
+	text-align: center;
+}
+
+.carousel-inner img{
+	height:600px; 
+}
